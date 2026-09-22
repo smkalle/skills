@@ -6,4 +6,5 @@ General workflow tools, not code-specific.
 - **[grill-me](./grill-me/SKILL.md)** — Get relentlessly interviewed about a plan or design until every branch of the decision tree is resolved.
 - **[handoff](./handoff/SKILL.md)** — Compact the current conversation into a handoff document so another agent can continue the work.
 - **[kwipu](./kwipu/SKILL.md)** — Set up, run, and query Kwipu: a property-graph RAG index over a notes folder or Obsidian vault, answered with citations from the terminal, 3D web UI, or MCP.
+- **[voiceprint](./voiceprint/SKILL.md)** — Measure how you actually write, then rewrite AI drafts to match and audit them rule by rule. Long-form pieces or short social replies.
 - **[write-a-skill](./write-a-skill/SKILL.md)** — Create new skills with proper structure, progressive disclosure, and bundled resources.

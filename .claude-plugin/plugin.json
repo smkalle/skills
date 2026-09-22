@@ -15,6 +15,7 @@
     "./skills/productivity/grill-me",
     "./skills/productivity/handoff",
     "./skills/productivity/kwipu",
+    "./skills/productivity/voiceprint",
     "./skills/productivity/write-a-skill"
   ]
 }
